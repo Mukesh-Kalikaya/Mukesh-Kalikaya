@@ -74,11 +74,11 @@
   <img src = "https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-kalikaya&theme=react&layout=donut)](https://github.com/mukesh-kalikaya/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-kalikaya&theme=blue-green)
 ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukesh-kalikaya&theme=react&show_icons=true)
 
 
-##### Contact Me At (mkalikay598@gmail.com)
+##### Contact Me At mkalikay598@gmail.com
 
 <!--
 **Mukesh-Kalikaya/Mukesh-Kalikaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
