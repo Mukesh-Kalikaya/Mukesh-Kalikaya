@@ -1,6 +1,6 @@
 <h1> Welcome to my profile</h1>
 
-<h5> My name is Mukesh Kalikaya and I am currently a Junior at Allen High School. I've been programming for 3 years (since 2021) and I find it fascinating so far (hopefully it says like this!). I </h5>
+<h5> My name is Mukesh Kalikaya and I am currently a Junior at Allen High School. I've been programming for 3 years (since 2021) and I find it fascinating so far (hopefully it says like this!). </h5>
 
 <h2> What I'm Proficient In </h2>
 <p align="center">
