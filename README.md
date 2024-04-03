@@ -77,6 +77,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-kalikaya&theme=react&layout=donut)](https://github.com/mukesh-kalikaya/github-readme-stats)
 ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukesh-kalikaya&theme=react&show_icons=true)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh-Kalikaya&hide_border=true&count_private=true&theme=dark" alt="Mukesh-Kalikaya" />
+
 
 ##### Contact Me At mkalikay598@gmail.com
 
