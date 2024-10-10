@@ -1,8 +1,10 @@
-<h1> Welcome to my profile</h1>
+### Hello! 👋 I'm Mukesh Kalikaya
 
-<h5> My name is Mukesh Kalikaya and I am currently a Senior at Allen High School. I've been programming for 3 years (since 2021) and I find it fascinating so far (hopefully it says like this!). </h5>
+I’m a Senior in High School with a passion for using technology to solve real-world problems and explore the endless possibilities of software development and robotics. While I’m diving into AI to broaden my knowledge, I’m committed to majoring in Computer Science, where I can continue pushing boundaries with code—whether that’s programming intricate robotic systems or crafting sleek web applications. As the lead programmer in NASA HUNCH and through my projects, I’ve always been driven by the excitement of learning something new and tackling challenges that help me grow.
 
-<h2> What I'm Proficient In </h2>
+---
+
+### What I'm Proficient In
 <p align="center">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -15,19 +17,25 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h2> What I'm Currently Learning </h2>
+---
+
+### What I'm Currently Learning
 <p align = "center">
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<h2> What I feel like learning </h2>
+---
+
+### What I feel like learning
 <p align = "center">
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h2> Softwares that I use </h2>
+---
+
+### Softwares that I use
 <p align = "center">
   <img src = "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />
   <img src = "https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
@@ -49,7 +57,9 @@
   <img src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-<h2> Other/Misc </h2>
+---
+
+### Other/Misc
 <p align = "center">
   <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,25 +84,13 @@
   <img src = "https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" />
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-kalikaya&theme=react&layout=donut)](https://github.com/mukesh-kalikaya/github-readme-stats)
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukesh-kalikaya&theme=react&show_icons=true)
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh-Kalikaya&hide_border=true&count_private=true&theme=dark" alt="Mukesh-Kalikaya" />
-
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mukesh-kalikaya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-kalikaya&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+  </p>
+</div>
 
 ##### Contact Me At mkalikay598@gmail.com
-
-<!--
-**Mukesh-Kalikaya/Mukesh-Kalikaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
