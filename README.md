@@ -107,8 +107,8 @@ I’m a Senior in High School with a passion for using technology to solve real-
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mukesh-kalikaya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-kalikaya&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=mukesh-kalikaya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mukesh Kalikaya's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-kalikaya&theme=tokyonight&hide_border=true" alt="Mukesh Kalikaya's Streak" height="165">
   </p>
 </div>
 
