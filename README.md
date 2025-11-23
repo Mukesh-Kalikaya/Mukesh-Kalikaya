@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Mukesh Kalikaya
 
-I’m a Senior in High School with a passion for using technology to solve real-world problems and explore the endless possibilities of software development and robotics. While I’m diving into AI to broaden my knowledge, I’m committed to majoring in Computer Science, where I can continue pushing boundaries with code—whether that’s programming intricate robotic systems or crafting sleek web applications. As the lead programmer in NASA HUNCH and through my projects, I’ve always been driven by the excitement of learning something new and tackling challenges that help me grow.
+I’m a Freshman in THe University of Texas at Dallas with a passion for using technology to solve real-world problems and explore the endless possibilities of software development and robotics. While I’m diving into AI to broaden my knowledge, I’m committed to majoring in Computer Science, where I can continue pushing boundaries with code—whether that’s programming intricate robotic systems or crafting sleek web applications. As the lead programmer in NASA HUNCH and through my projects, I’ve always been driven by the excitement of learning something new and tackling challenges that help me grow.
 
 ---
 
